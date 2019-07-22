@@ -1,2 +1,5 @@
 # hello-m
-new repository
+
+Hello!
+
+   Mer here. Nice to meet you.
